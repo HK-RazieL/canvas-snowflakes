@@ -4,6 +4,5 @@ body {
 
 canvas {
   border: 1px solid black;
-  background-image: url("./1502881_634704343237974_323399313_o.jpg");
-  background-repeat: no-repeat;
+  background-color: "black";
 }
